@@ -1,0 +1,4 @@
+## ¿Como crear repositorio local?
+Primero se abre la consola o terminal y se accede a la carpeta del proyecto utilizando el comando **cd** Una vez dentro de la carpeta, se ejecuta el comando **git init**, el cual inicializa el repositorio local y crea una carpeta oculta llamada **.git**, donde Git almacena toda la información del historial del proyecto.
+
+Después de inicializar el repositorio, se puede comprobar su estado con el comando **git status**, que muestra los archivos detectados por Git. Para comenzar a guardar los archivos en el repositorio, se utiliza el comando **git add .**, que agrega todos los archivos del proyecto al área de preparación. Finalmente, se ejecuta el comando **git commit -m "Primer commit"**, con el cual se guarda la primera versión del proyecto en el repositorio local. 
