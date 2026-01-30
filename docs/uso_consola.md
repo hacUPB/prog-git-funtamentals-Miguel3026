@@ -40,4 +40,8 @@ Comandos aprendidos:
 * **rm**
 * **clear**
 
+## Imagenes: 
 
+![comandos1](../images/cap_prog1.png)
+
+![comandos2](../images/cap_prog2.png)
