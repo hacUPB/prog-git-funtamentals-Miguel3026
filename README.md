@@ -4,6 +4,14 @@
 Nombre del estudiante: Miguel Angel Mejia Loaiza 
 Id.: 000257893 
 ---
+## Descripción:
+Este repositorio contiene los primeros conceptos y prácticas sobre el uso de Git, incluyendo los comandos básicos para la creación y gestión de repositorios locales y remotos. Además, se documenta el uso de la consola para navegar y organizar archivos, así como ejemplos con imágenes que muestran la ejecución de distintos comandos.
+
+## Clonar y ejecutar proyecto:
+Para clonar y ejecutar el proyecto, primero se debe copiar la URL del repositorio desde GitHub. Luego, se abre la consola o terminal y se navega hasta la carpeta donde se desea guardar el proyecto utilizando el comando cd. Una vez en la ubicación correcta, se ejecuta el comando **git clone URL_DEL_REPOSITORIO**, el cual descarga una copia completa del proyecto en el computador.
+
+Después de que el repositorio ha sido clonado, se accede a la carpeta del proyecto con el comando **cd nombre_del_proyecto**. Si el proyecto contiene código en Python, se puede ejecutar desde la consola usando el comando python **archivo.py**.De esta manera, el proyecto queda listo para ser ejecutado y revisado.
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
